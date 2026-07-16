@@ -1,65 +1,59 @@
-# Syed Shamveel Ahmed
+Hi, I'm Syed Shamveel Ahmed
 
-Cybersecurity Student | SOC Analyst | AI Security Researcher | Founder @ Decod3dLabs
+Cybersecurity Student | SOC Analyst | AI & Security Researcher | Founder of Decod3dLabs
 
-I am a Cyber Security undergraduate focused on Security Operations (SOC), Detection Engineering, Threat Detection, SIEM, SOAR, AI for Cybersecurity, and Explainable Security Systems.
+I am a Cyber Security undergraduate at Dawood University of Engineering & Technology (DUET), Pakistan, with a strong interest in Security Operations (SOC), Detection Engineering, Threat Hunting, AI for Cybersecurity, SIEM, SOAR, and Explainable AI.
 
-My goal is to build intelligent security solutions that reduce analyst workload while improving threat detection and incident response.
+My goal is to build intelligent security solutions that help security analysts detect, investigate, and respond to cyber threats more efficiently. Alongside hands-on SOC practice, I actively conduct research on next-generation AI-driven Security Operations Centers.
 
 ---
 
-## About Me
+About Me
 
-- BS Cyber Security — Dawood University of Engineering & Technology (DUET)
+- BS Cyber Security Student — Dawood University of Engineering & Technology (DUET)
 - Founder — Decod3dLabs
 - AI & Security Researcher
-- Security Operations (SOC) Enthusiast
-- Defensive Security Practitioner
-- HTB Academy Top 1%
-- Building practical cybersecurity projects
+- SOC Analyst (Defensive Security)
+- Top 1% — Hack The Box Academy
+- Passionate about Threat Detection, Security Automation, and AI Security
+- Building practical cybersecurity projects and publishing security research
 
 ---
 
-## Research Interests
+Current Research
 
-- AI for Cybersecurity
-- Security Operations Centers (SOC)
-- SIEM
-- SOAR
-- XDR
-- Explainable AI
-- Alert Fatigue
-- Threat Detection
-- Security Automation
-- LLM-assisted Incident Response
+I am currently conducting research on next-generation AI-powered Security Operations Centers.
 
----
+Research areas include:
 
-## Current Research
-
-Currently working on research focused on improving modern Security Operations Centers by addressing:
-
-- Alert Fatigue
+- Security Information and Event Management (SIEM)
+- Security Orchestration, Automation and Response (SOAR)
+- Explainable AI for Cybersecurity
+- Alert Fatigue Reduction
 - False Positive Reduction
-- Explainable Security Alerts
 - AI-assisted Incident Investigation
-- Intelligent Security Automation
-- Next-generation SIEM/SOAR Architecture
+- Intelligent Playbook Automation
+- Human-in-the-loop Security Systems
+- Future SOC Architecture
 
 ---
 
-## Featured Projects
+Featured Projects
 
-### AI-Based Cyber Threat Detection & SOC Dashboard
+AI-Based Cyber Threat Detection & SOC Dashboard
 
-AI-powered SOC dashboard that combines:
+An AI-powered Security Operations Center dashboard that combines machine learning with Large Language Models for intelligent threat detection.
 
+Features
+
+- Real-time log monitoring
 - Isolation Forest anomaly detection
-- LLM-generated incident reports
-- Real-time security monitoring
-- Threat visualization
-- Explainable incident summaries
-- Streamlit dashboard
+- AI-generated incident reports
+- Threat severity classification
+- Interactive SOC Dashboard
+- Explainable AI summaries
+- Security visualization
+- Incident history management
 
 Tech Stack
 
@@ -68,51 +62,53 @@ Tech Stack
 - Streamlit
 - Pandas
 - NumPy
-- Hugging Face API
+- Hugging Face Inference API
 
 ---
 
-### Security Event Detection & Attack Simulation Lab
+Security Event Detection & Attack Simulation Lab
 
-Hands-on SOC lab built using:
+A complete SOC lab for learning detection engineering and incident response.
+
+Technologies
 
 - Splunk Enterprise
+- Wazuh
 - Sysmon
 - Windows Event Logs
-- Wazuh
 - Kali Linux
 - Sigma Rules
-
-Includes attack simulation, detection engineering, and threat hunting.
+- Detection Engineering
+- Threat Hunting
 
 ---
 
-## Technical Skills
+Technical Skills
 
-### SIEM
+Security Operations
+
+- Security Monitoring
+- Threat Hunting
+- Incident Response
+- Detection Engineering
+- Malware Analysis
+- Digital Forensics
+- Security Automation
+
+SIEM
 
 - Splunk
 - Wazuh
 - ELK Stack
 
-### Programming
+Programming
 
 - Python
 - Java
 - C++
 - SQL
 
-### Security
-
-- Threat Hunting
-- Incident Response
-- Malware Analysis
-- Detection Engineering
-- Digital Forensics
-- Windows Security
-- Linux Security
-
-### AI & ML
+AI & Machine Learning
 
 - Scikit-learn
 - Isolation Forest
@@ -120,54 +116,65 @@ Includes attack simulation, detection engineering, and threat hunting.
 - LLM Integration
 - Explainable AI
 
+Operating Systems
+
+- Windows
+- Linux
+
 ---
 
-## Certifications
+Certifications & Training
 
 - ISC2 Certified in Cybersecurity (CC)
 - Google Cybersecurity Professional Certificate
-- Cisco CyberOps Associate
-- Hack The Box Academy — Junior Cybersecurity Analyst
+- Cisco CyberOps Associate Training
+- Hack The Box Academy – SOC Analyst Job Role Path (CDSA Training) — Completed
+- Hack The Box Academy – Junior Cybersecurity Analyst Job Role Path — Completed
+- HTB Academy Top 1%
 
 ---
 
-## Currently Learning
+Currently Learning
 
-- Detection Engineering
-- Advanced Threat Hunting
-- SOAR Development
-- AI Agents for Security
+- Advanced Detection Engineering
+- Threat Hunting
 - Security Automation
+- SOAR Development
 - Adversary Emulation
+- AI Agents for Cybersecurity
+- Advanced Malware Analysis
 
 ---
 
-## Connect With Me
+Research Interests
 
-LinkedIn:
-https://linkedin.com/in/YOUR-LINK
+- Artificial Intelligence
+- Cybersecurity
+- Security Operations Centers
+- Detection Engineering
+- Explainable AI
+- SIEM
+- SOAR
+- XDR
+- Threat Intelligence
+- Security Automation
 
-Website:
-https://decod3dlabs.netlify.app
+---
 
-GitHub:
+Connect With Me
+
+LinkedIn
+
+https://www.linkedin.com/in/syed-shamveel-ahmed-5641b9248
+
+GitHub
+
 https://github.com/igahmed
+
+Website
+
+https://decod3dlabs.netlify.app
 
 ---
 
 "Building intelligent security solutions for the next generation of Security Operations Centers."
-
-<!--
-**igahmed/igahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
