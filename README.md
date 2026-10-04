@@ -1,60 +1,73 @@
-Hi, I'm Syed Shamveel Ahmed
+Hi, I’m Shamveel Ahmed 👋
 
-Cybersecurity Student | SOC Analyst | AI & Security Researcher | Founder of Decod3dLabs
+Cybersecurity Student | SOC Analyst | AI & Security Researcher
 
-I am a Cyber Security undergraduate at Dawood University of Engineering & Technology (DUET), Pakistan, with a strong interest in Security Operations (SOC), Detection Engineering, Threat Hunting, AI for Cybersecurity, SIEM, SOAR, and Explainable AI.
+I’m a Cybersecurity undergraduate at Dawood University of Engineering & Technology (DUET), Pakistan, focused on building the future of intelligent security operations.
 
-My goal is to build intelligent security solutions that help security analysts detect, investigate, and respond to cyber threats more efficiently. Alongside hands-on SOC practice, I actively conduct research on next-generation AI-driven Security Operations Centers.
+My interests span Security Operations (SOC), Detection Engineering, Threat Hunting, SIEM, SOAR, AI for Cybersecurity, and Explainable AI (XAI).
 
----
+I’m particularly interested in the intersection of AI + Cybersecurity — developing intelligent systems that help security teams detect threats faster, investigate incidents smarter, and respond more effectively.
 
-About Me
+Alongside hands-on SOC and defensive security work, I actively explore and research next-generation AI-driven Security Operations Centers.
 
-- BS Cyber Security Student — Dawood University of Engineering & Technology (DUET)
-- Founder — Decod3dLabs
-- AI & Security Researcher
-- SOC Analyst (Defensive Security)
-- Top 1% — Hack The Box Academy
-- Passionate about Threat Detection, Security Automation, and AI Security
-- Building practical cybersecurity projects and publishing security research
+🧠 About Me
 
----
+🎓 BS Cybersecurity Student — Dawood University of Engineering & Technology (DUET)
 
-Featured Projects
+🔬 AI & Security Researcher
 
+🛡️ SOC Analyst — Defensive Security
+
+🏆 Top 1% — Hack The Box Academy
+
+🎯 Focused on Threat Detection & Detection Engineering
+
+⚙️ Interested in Security Automation, SIEM & SOAR
+
+🤖 Exploring AI/ML, LLMs & Explainable AI for Cybersecurity
+
+🔨 Building practical security tools, conducting research, and sharing what I learn
+
+🚀 Building CalibrationVector — exploring intelligent security solutions for modern Security Operations
+
+⚡ Featured Project
 AI-Based Cyber Threat Detection & SOC Dashboard
 
-An AI-powered Security Operations Center dashboard that combines machine learning with Large Language Models for intelligent threat detection.
+An AI-powered Security Operations platform combining Machine Learning, Large Language Models, and security analytics to assist analysts with intelligent threat detection, investigation, and response.
 
----
+The goal:
 
-Certifications & Training
+Turn raw security data into actionable intelligence — and make SOC operations smarter.
 
-- ISC2 Certified in Cybersecurity (CC)
-- Google Cybersecurity Professional Certificate
-- Cisco CyberOps Associate Training
-- Hack The Box Academy – SOC Analyst Job Role Path (CDSA Training) — Completed
-- Hack The Box Academy – Junior Cybersecurity Analyst Job Role Path — Completed
-- HTB Academy Top 1%
+🏅 Certifications & Training
 
----
+ISC2 Certified in Cybersecurity (CC)
 
-Connect With Me
+Google Cybersecurity Professional Certificate
+
+Cisco CyberOps Associate Training
+
+HTB Academy — SOC Analyst Job Role Path (CDSA Training) — Completed
+
+HTB Academy — Junior Cybersecurity Analyst Job Role Path — Completed
+
+Hack The Box Academy — Top 1%
+
+🌐 Find Me Online
 
 LinkedIn
-
 https://www.linkedin.com/in/syed-shamveel-ahmed-5641b9248
 
 GitHub
-
 https://github.com/igahmed
 
----
-
-Website
-
+Calyvex
 https://calyvex.dev
 
----
+🚀 What I’m Building Toward
 
-"Building intelligent security solutions for the next generation of Security Operations Centers."
+I’m working toward building intelligent security systems that augment human analysts, reduce investigation time, improve detection capabilities, and help organizations stay ahead of evolving cyber threats.
+
+Through Calyvex, I’m exploring what the next generation of AI-driven Security Operations could look like.
+
+Building intelligent security solutions for the next generation of Security Operations Centers.
