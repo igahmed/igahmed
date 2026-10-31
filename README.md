@@ -28,7 +28,7 @@
 
 ## About Me
 
-I'm a Cybersecurity undergraduate at **Dawood University of Engineering & Technology (DUET), Pakistan**, focused on building intelligent security systems and advancing modern Security Operations.
+I'm Cybersecurity undergraduate at **Dawood University of Engineering & Technology (DUET), Pakistan**, focused on building intelligent security systems and advancing modern Security Operations.
 
 My technical interests center around **Security Operations (SOC), Detection Engineering, Threat Hunting, SIEM, SOAR, and AI-driven Cybersecurity**.
 
@@ -47,7 +47,7 @@ Beyond practical defensive security, I actively explore emerging security challe
 - Exploring SIEM, SOAR, Security Automation, and Threat Hunting
 - Researching AI Security, Agent Identity, and Access Management
 - Building practical security tools, detection labs, and research projects
-- Working toward **Calyvex**, a future cybersecurity initiative exploring intelligent security solutions.
+- I'm founding **Calyvex (Calibration + Vector)**, a cybersecurity initiative exploring intelligent security solutions and the future of AI-powered cyber defense.
 
 ### Open To
 
@@ -205,18 +205,18 @@ Investigate how dynamic authorization mechanisms can limit excessive privileges,
 
 </details>
 
-### 4. Calyvex — Future Cybersecurity Initiative
+### 4. Calyvex — Calibration + Vector
 
 <details>
 <summary><b>View Initiative Details</b></summary>
 
 **Overview**
 
-Calyvex is a future cybersecurity initiative I am working toward, with a vision of exploring intelligent security solutions and the future of AI-powered cyber defense.
+I'm founding **Calyvex (Calibration + Vector)** as a cybersecurity initiative focused on exploring intelligent security solutions and the future of AI-powered cyber defense.
 
 **Brand Philosophy**
 
-Calibration + Vector + Adversarial Validation.
+**Calibration + Vector** — representing a foundation for developing and advancing intelligent cybersecurity solutions.
 
 **Focus Areas**
 
@@ -315,36 +315,6 @@ Calibration + Vector + Adversarial Validation.
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=igahmed&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=10"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=igahmed&bg_color=0D1117&color=A78BFA&line=6366F1&point=C4B5FD&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/igahmed/igahmed/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 ## Current Focus
 
 ```yaml
@@ -359,7 +329,7 @@ learning:
 building:
   - SOC Detection and Attack Simulation Lab
   - AI-Based Cyber Threat Detection Platform
-  - Calyvex Cybersecurity Initiative
+  - Calyvex (Calibration + Vector) — a cybersecurity initiative I'm founding
   - Practical Defensive Security Projects
 
 researching:
@@ -391,7 +361,7 @@ Interested in connecting with cybersecurity professionals, researchers, security
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github)](https://github.com/igahmed)
 
-[![Calyvex](https://img.shields.io/badge/Calyvex-Future%20Cybersecurity%20Initiative-6366F1?style=for-the-badge)](https://calyvex.dev)
+[![Calyvex](https://img.shields.io/badge/Calyvex-Calibration%20%2B%20Vector-6366F1?style=for-the-badge)](https://calyvex.dev)
 
 </div>
 
