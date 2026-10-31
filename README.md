@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:312E81,100:6366F1&height=180&section=header&text=SHAMVEEL%20AHMED&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Security%20Research&descAlignY=60&descSize=16" width="100%" />
 
@@ -8,8 +8,6 @@
 
 [![DUET](https://img.shields.io/badge/DUET-BS%20Cybersecurity-312E81?style=for-the-badge)](https://duet.edu.pk/)
 [![HTB](https://img.shields.io/badge/Hack%20The%20Box-Top%201%25-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://academy.hackthebox.com/)
-
-![Location](https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-6366F1?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
@@ -47,7 +45,7 @@ Beyond practical defensive security, I actively explore emerging security challe
 - Exploring SIEM, SOAR, Security Automation, and Threat Hunting
 - Researching AI Security, Agent Identity, and Access Management
 - Building practical security tools, detection labs, and research projects
-- I'm founding **Calyvex (Calibration + Vector)**, a cybersecurity initiative exploring intelligent security solutions and the future of AI-powered cyber defense.
+- I’m founding **Calyvex (Calibration + Vector)**, a cybersecurity initiative exploring intelligent security solutions and the future of AI-powered cyber defense.
 
 ### Open To
 
@@ -212,7 +210,7 @@ Investigate how dynamic authorization mechanisms can limit excessive privileges,
 
 **Overview**
 
-I'm founding **Calyvex (Calibration + Vector)** as a cybersecurity initiative focused on exploring intelligent security solutions and the future of AI-powered cyber defense.
+I’m founding **Calyvex (Calibration + Vector)** as a cybersecurity initiative focused on exploring intelligent security solutions and the future of AI-powered cyber defense.
 
 **Brand Philosophy**
 
@@ -226,8 +224,6 @@ I'm founding **Calyvex (Calibration + Vector)** as a cybersecurity initiative fo
 - Modern defensive security solutions
 
 **Website:** [calyvex.dev](https://calyvex.dev)
-
-**GitHub:** [Calyvex Repository](https://github.com/igahmed/Calyvex)
 
 **Vision:** AI-Powered Defense. Secure the Future.
 
@@ -329,7 +325,7 @@ learning:
 building:
   - SOC Detection and Attack Simulation Lab
   - AI-Based Cyber Threat Detection Platform
-  - Calyvex (Calibration + Vector) — a cybersecurity initiative I'm founding
+  - Calyvex (Calibration + Vector) — a cybersecurity initiative I’m founding
   - Practical Defensive Security Projects
 
 researching:
